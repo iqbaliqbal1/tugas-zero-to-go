@@ -1,0 +1,5 @@
+mode: set
+unit-testing/functions/calculatorFunction.go:4.33,8.2 3 1
+unit-testing/functions/calculatorFunction.go:11.34,15.2 3 1
+unit-testing/functions/calculatorFunction.go:17.37,21.2 3 1
+unit-testing/functions/calculatorFunction.go:23.47,27.2 3 1

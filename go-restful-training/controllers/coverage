@@ -1,0 +1,12 @@
+mode: set
+go-restful-training/controllers/userController.go:12.47,14.17 2 0
+go-restful-training/controllers/userController.go:17.3,17.38 1 0
+go-restful-training/controllers/userController.go:14.17,16.4 1 0
+go-restful-training/controllers/userController.go:22.46,26.17 3 0
+go-restful-training/controllers/userController.go:29.3,29.37 1 0
+go-restful-training/controllers/userController.go:26.17,28.4 1 0
+go-restful-training/controllers/userController.go:33.49,38.17 4 1
+go-restful-training/controllers/userController.go:41.3,41.44 1 1
+go-restful-training/controllers/userController.go:38.17,40.4 1 0
+go-restful-training/controllers/userController.go:44.49,52.4 3 0
+go-restful-training/controllers/userController.go:54.51,64.4 5 0
